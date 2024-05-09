@@ -1,4 +1,4 @@
-<h3>AIM:To perform  matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
+
 </h3>
 <h3>JOEL P</h3>
 <h3>212222230057</h3>
@@ -238,4 +238,4 @@ return (0);
 
 
 ## RESULT:
-The host took  seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
+The host took 0.835959 seconds to complete it’s computation, while the GPU outperforms the host and completes the computation in 0.053757 seconds. Therefore, float variables in the GPU will result in the best possible result. Thus, matrix summation using 2D grids and 2D blocks has been performed successfully.
